@@ -20,7 +20,7 @@
 > 实时获取最新免费节点。
 
 * **每日更新免费订阅.com：** [点击访问官网](https://xn--94qz53l48aoxs.com/free-subscribe)
-    `https://xn--94qz53l48aoxs.com/free-subscribe`
+    `https://免费订阅.com/free-subscribe`
 
 ---
 
