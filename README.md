@@ -19,8 +19,8 @@
 #### 2. 每日免费订阅
 > 实时获取最新免费节点。
 
-* **每日更新免费订阅.com：** [点击访问官网](https://xn--94qz53l48aoxs.com/free-subscribe)
-    `https://免费订阅.com/free-subscribe`
+* **每日更新免费订阅.com：** [点击获取最新订阅](https://xn--94qz53l48aoxs.com/free-subscribe)
+    `免费订阅.com`
 
 ---
 
