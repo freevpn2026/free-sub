@@ -2,7 +2,31 @@
 免费订阅、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan/vmess节点、翻墙梯子、翻墙VPN、免费小火箭订阅、免费clash订阅
 
 
+---
 
+### 🎁 免费订阅资源汇总
+
+这里整理了一些长期更新的免费订阅源，建议配合上方推荐的客户端使用。
+
+#### 1. GitHub 免费源 (自动更新)
+> 包含 Clash 和 V2Ray 标准格式，直接导入即可。
+
+* **Clash 订阅地址：**
+    `https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml`
+* **V2Ray 订阅地址：**
+    `https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt`
+
+#### 2. 每日免费订阅
+> 实时获取最新免费节点。
+
+* **每日更新免费订阅.com：** [点击访问官网](https://xn--94qz53l48aoxs.com/free-subscribe)
+    `https://xn--94qz53l48aoxs.com/free-subscribe`
+
+---
+
+> **⚠️ 注意事项：**
+> * 免费资源具有时效性，如遇连接失败，请尝试刷新订阅或访问门户网站获取最新链接。
+> * 建议将上述地址添加至客户端的“定时更新”任务中。
 
 ### 🌐 常用代理客户端下载汇总
 
