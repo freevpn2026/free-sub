@@ -37,7 +37,7 @@
 * **💰 极致价格：** 低至 **2元/月**，真正的白菜价。
 * **🌐 优质解锁：** 完美支持 **Netflix**、**Disney+** 等流媒体播放。
 * **🤖 AI 友好：** 节点优化，顺滑访问 **ChatGPT**、**Gemini**、Claude 等 AI 工具。
-* **⚡ 注册地址：** [👉 点击前往白菜机场官网](https://xn--mes358a4plh5m.com/#/register?code=ckk4gnwq)
+* **⚡ 注册地址：** [👉 点击前往白菜机场官网](https://xn--mes358a4plh5m.com/#/register?code=aUDtZ9F7)
 
 > **💡 评价：** 适合作为备用或主力长期使用，尤其推荐给有备用机场需求、预算有限的用户。
 
